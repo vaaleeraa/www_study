@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    /* flex-wrap: wrap  */
+
+}
+
+.post {
+    max-width: 300px;
+}
+
+.post-big h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    font-weight: 800;
+    line-height: 80%;
+}
+
+.post-big p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.post-medium h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 80%;
+}
+
+.post-medium p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 4px;
+
+}
+
+
+
+.post-small h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 80%;
+}
+
+.post-small p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding-top: 2px;
+
+}
+
