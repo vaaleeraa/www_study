@@ -4,6 +4,13 @@
 
 }
 
+.overlay {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: black;
+}
+
 .post {
     max-width: 300px;
 }
