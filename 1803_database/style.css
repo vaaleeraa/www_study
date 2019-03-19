@@ -11,9 +11,7 @@
     background: black;
 }
 
-.post {
-    max-width: 300px;
-}
+
 
 .post-big h1 {
     font-family: 'Courier New', Courier, monospace;
@@ -58,3 +56,9 @@
 
 }
 
+.post {
+    max-width: 250px;
+    min-width: 150px;
+    margin-left: 5;
+    margin-right: 5;
+}
