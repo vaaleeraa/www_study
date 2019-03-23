@@ -1,0 +1,42 @@
+.container {
+position: relative;
+display: flex;
+justify-content: center;
+/* width: 100vw;
+height: 100vh; */
+}
+
+.audio {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+}
+
+.hov_image {
+    /* display: none; */
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .how_image img {
+        width: 1000px;
+        height: 100vh;
+        
+    } 
+
+/* .hov_image_jr {
+display: flex;
+justify-content: center;
+width: 100vw;
+height: 100vh;
+    } */
+
+    #player {
+        }
+
+        body {
+            margin: 0%;
+        }
